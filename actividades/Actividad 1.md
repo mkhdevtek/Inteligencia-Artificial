@@ -5,7 +5,8 @@ tags:
   - actividad
 date: 2025-09-01
 ---
-![actividad1](attachments/ejercicio_Astar.png)
+
+![Actividad1](../attachments/ejercicio_Astar.png)
 
 El camino más corto obtenido por el algoritmo **`A*`** de este problema seria moverse por las siguientes casillas:
 ```c
