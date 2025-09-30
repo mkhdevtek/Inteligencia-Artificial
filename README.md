@@ -8,7 +8,7 @@ Lista de actividades para la materia de **Inteligencia Artificial**.
 
 ## [Actividad 2](./actividades/Actividad%202.md)
 Plantear un dataset para el juego mostrado en la imagen:
-![juego](./attachments/asteroid_like.png|900)
+![juego](./attachments/asteroid_like.png)
 
 ## [Actividad 3](./actividades/Actividad%203.md)
 Calcular la matriz de convolución de suavizado:
