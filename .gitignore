@@ -1,2 +1,6 @@
 *.excalidraw
 *.excalidraw.*
+
+programacion/02_opencv/training_data/*
+programacion/02_opencv/training_images/*
+programacion/02_opencv/frames/*
