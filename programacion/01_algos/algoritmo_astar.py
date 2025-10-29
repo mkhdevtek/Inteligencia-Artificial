@@ -2,12 +2,10 @@ import pygame
 import math
 from queue import PriorityQueue
 
-# Configuraciones iniciales
 ANCHO_VENTANA = 800
 VENTANA = pygame.display.set_mode((ANCHO_VENTANA, ANCHO_VENTANA))
 pygame.display.set_caption("Algoritmo A* - Pathfinding")
 
-# Colores (RGB)
 BLANCO = (255, 255, 255)
 NEGRO = (0, 0, 0)
 GRIS = (128, 128, 128)
@@ -77,7 +75,6 @@ class Nodo:
 
     def actualizar_vecinos(self, grid):
         self.vecinos = []
-        # Los 8 posibles vecinos (incluye diagonales)
         direcciones = [
             (-1, -1), (-1, 0), (-1, 1),  # Arriba-izquierda, arriba, arriba-derecha
             (0, -1),           (0, 1),   # Izquierda, derecha
@@ -88,26 +85,22 @@ class Nodo:
             nueva_fila = self.fila + df
             nueva_col = self.col + dc
             
-            # Verificar límites
             if (0 <= nueva_fila < self.total_filas and 
                 0 <= nueva_col < self.total_filas and 
                 not grid[nueva_fila][nueva_col].es_pared()):
                 self.vecinos.append(grid[nueva_fila][nueva_col])
 
 def heuristica(p1, p2):
-    """Distancia euclidiana como heurística"""
     x1, y1 = p1
     x2, y2 = p2
     return math.sqrt((x1 - x2)**2 + (y1 - y2)**2)
 
 def distancia_real(p1, p2):
-    """Distancia real entre dos puntos"""
     x1, y1 = p1
     x2, y2 = p2
     return math.sqrt((x1 - x2)**2 + (y1 - y2)**2)
     
 def reconstruir_camino(came_from, actual, dibujar_func):
-    """Reconstruye y dibuja el camino encontrado"""
     while actual in came_from:
         actual = came_from[actual]
         if not actual.es_inicio():
@@ -115,7 +108,6 @@ def reconstruir_camino(came_from, actual, dibujar_func):
         dibujar_func()
 
 def algoritmo_a_estrella(dibujar_func, grid, inicio, fin):
-    """Implementación del algoritmo A*"""
     contador = 0
     open_set = PriorityQueue()
     open_set.put((0, contador, inicio))
@@ -164,7 +156,8 @@ def algoritmo_a_estrella(dibujar_func, grid, inicio, fin):
         dibujar_func()
         
         if actual != inicio:
-            actual.hacer_cerrado()
+            ...
+            #actual.hacer_cerrado()
     
     return False
 
@@ -202,7 +195,7 @@ def obtener_click_pos(pos, filas, ancho):
     return fila, col
 
 def main(ventana, ancho):
-    FILAS = 7 # Aumentado para mejor visualización
+    FILAS = 15 # Aumentado para mejor visualización
     grid = crear_grid(FILAS, ancho)
     
     inicio = None
