@@ -18,7 +18,7 @@ while True:
 
         if (i % 1 == 0):
             # write to the corresponding folder
-            cv.imwrite(f'./training_images/emotions/feli/{str(i)}.jpg', frame2)
+            cv.imwrite(f'./.training_images/emotions/feli/{str(i)}.jpg', frame2)
             cv.imshow('rostros', frame2)
 
     cv.imshow('rostros', frame)

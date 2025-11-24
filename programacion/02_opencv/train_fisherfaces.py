@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 import os
 
-dataset = './training_images/emotions'
+dataset = './.training_images/emotions'
 faces = os.listdir(dataset)
 print(faces)
 
@@ -14,7 +14,8 @@ for face in faces:
     facePath = f'{dataset}/{face}'
     for faceName in os.listdir(facePath):
         labels.append(label)
-        facesData.append(cv.imread(f'{facePath}/{faceName}', 0))
+        img = cv.imread(f'{facePath}/{faceName}', 0)
+        facesData.append(img)
         print(f'Face: {faceName} in {facePath} appended to facesData')
     label = label + 1
 
