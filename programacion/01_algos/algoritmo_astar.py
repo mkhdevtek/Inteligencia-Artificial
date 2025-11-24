@@ -52,6 +52,9 @@ class Nodo:
     def restablecer(self):
         self.color = BLANCO
 
+    def hacer_actual(self):
+        self.color = AZUL
+
     def hacer_inicio(self):
         self.color = NARANJA
 
@@ -129,6 +132,7 @@ def algoritmo_a_estrella(dibujar_func, grid, inicio, fin):
                 return False
         
         actual = open_set.get()[2]
+        actual.hacer_actual()
         open_set_hash.remove(actual)
         
         if actual == fin:
@@ -156,8 +160,7 @@ def algoritmo_a_estrella(dibujar_func, grid, inicio, fin):
         dibujar_func()
         
         if actual != inicio:
-            ...
-            #actual.hacer_cerrado()
+            actual.hacer_cerrado()
     
     return False
 
@@ -195,7 +198,7 @@ def obtener_click_pos(pos, filas, ancho):
     return fila, col
 
 def main(ventana, ancho):
-    FILAS = 15 # Aumentado para mejor visualización
+    FILAS = 11 # Aumentado para mejor visualización
     grid = crear_grid(FILAS, ancho)
     
     inicio = None
