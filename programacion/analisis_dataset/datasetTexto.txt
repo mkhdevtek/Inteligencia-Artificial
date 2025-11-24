@@ -1,0 +1,11 @@
+Este CSV contiene:
+Columnas:
+- id (entero)
+- categoría (texto)
+- titulo (texto)
+- medio (texto)
+- fecha (fecha)
+- resumen (texto)
+- comentario_reacción (texto)
+
+Cada fila representa un registro.
