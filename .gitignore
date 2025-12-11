@@ -8,5 +8,6 @@
 /programacion/02_opencv/.training_images
 /programacion/02_opencv/frames
 /programacion/CNN/.all_images
-!/programacion/CNN/.all_images/animals
 /programacion/04_scrappcloud/facebook-post-scraper
+
+*modelo_fusionado/
