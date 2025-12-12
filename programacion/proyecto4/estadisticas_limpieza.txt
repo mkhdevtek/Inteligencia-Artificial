@@ -1,0 +1,11 @@
+ESTADÍSTICAS DE LIMPIEZA DEL DATASET
+============================================================
+
+total_original: 198
+duplicados_exactos: 0
+prompts_similares: 0
+formato_invalido: 39
+campos_vacios: 0
+respuestas_muy_cortas: 0
+caracteres_invalidos: 150
+final_limpio: 159

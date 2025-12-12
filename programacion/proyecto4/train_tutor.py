@@ -5,7 +5,7 @@ from peft import LoraConfig, get_peft_model, TaskType
 
 # 1. Configuración
 model_name = "unsloth/Llama-3.2-3B-Instruct" # Usamos el 3B o 1B para que sea rápido en tu CPU
-output_dir = "./tutor_algoritmos_lora"
+output_dir = "./tutor_algoritmos_lora2"
 
 # 2. Carga del Modelo (SIN quantization 8bit para evitar error de bitsandbytes en CPU)
 # Tus 48GB de RAM aguantan el modelo en float32 o bfloat16 sin problemas.
@@ -31,10 +31,10 @@ model = get_peft_model(model, peft_config)
 model.print_trainable_parameters()
 
 # 4. Dataset
-dataset = load_dataset("json", data_files="./dataset.jsonl") # Tu archivo jsonl
+dataset = load_dataset("json", data_files="./dataset_limpio.jsonl") # Tu archivo jsonl
 
 def preprocess_function(examples):
-    inputs = [f"Instrucción: {i}\nRespuesta: {r}" for i, r in zip(examples["instruction"], examples["response"])]
+    inputs = [f"Instrucción: {i}\nRespuesta: {r}" for i, r in zip(examples["prompt"], examples["response"])]
     model_inputs = tokenizer(inputs, max_length=512, truncation=True, padding="max_length")
     model_inputs["labels"] = model_inputs["input_ids"].copy()
     return model_inputs
@@ -46,8 +46,8 @@ training_args = TrainingArguments(
     output_dir=output_dir,
     per_device_train_batch_size=2, # Bajo para CPU
     gradient_accumulation_steps=4,
-    num_train_epochs=3,
-    learning_rate=2e-4,
+    num_train_epochs=9,
+    learning_rate=2e-5,
     use_cpu=True, # IMPORTANTE para tu laptop
     logging_steps=10,
     save_strategy="epoch"

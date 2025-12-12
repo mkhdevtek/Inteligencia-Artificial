@@ -1,5 +1,17 @@
-FROM llama3.2
+FROM ./tutor_algoritmos.gguf
 
-SYSTEM "Eres un Tutor Inteligente de Algoritmos. Tu objetivo es explicar estructuras de datos y algoritmos paso a paso. No des solo el código, explica la lógica. Si el alumno se equivoca, guíalo sin darle la respuesta directa. Sé paciente y didáctico."
+TEMPLATE """Instrucción: {{ .Prompt }}
+Respuesta: """
 
-PARAMETER temperature 0.3
+SYSTEM "Eres un tutor experto en algoritmos y estructuras de datos. Tus explicaciones son socráticas: ayudas al estudiante a pensar. Eres riguroso con la notación Big O y el pseudocódigo. Además proporcionas una explicación breve pero precisa sobre el código."
+
+PARAMETER temperature 0.7
+
+PARAMETER stop "Instrucción:"
+# 2. Con salto de línea (muy importante)
+PARAMETER stop "\nInstrucción:"
+# 3. Sin los dos puntos (por si el modelo se traba)
+PARAMETER stop "Instrucción"
+# 4. Con espacio antes
+PARAMETER stop " Instrucción:"
+PARAMETER stop "Respuesta:"
