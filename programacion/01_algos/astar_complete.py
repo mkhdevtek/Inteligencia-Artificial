@@ -159,11 +159,13 @@ def obtener_click_pos(pos, filas, ancho):
 
 # ALGORITMO A* -----------------------------------------------
 def calcula_h(inicio, fin):
+    """Heurística: Distancia Chebyshev (permite diagonales)"""
     x1, y1 = inicio.get_pos()
     x2, y2 = fin.get_pos()
     return (abs(x2 - x1) + abs(y2 - y1)) * G
 
 def calcular_costo_movimiento(actual, vecino): 
+    """Calcula el costo de moverse de actual a vecino"""
     actual_x, actual_y = actual.get_pos()
     vecino_x, vecino_y = vecino.get_pos()
 
@@ -178,6 +180,7 @@ def calcular_costo_movimiento(actual, vecino):
         return G
 
 def calcula_vecinos(actual, grid, fin, lista_abierta, lista_cerrada):
+    """Calcula y actualiza los vecinos del nodo actual"""
     vecinos_actualizados = []
     actual_x, actual_y = actual.get_pos()
     filas = len(grid)
@@ -226,6 +229,7 @@ def calcula_vecinos(actual, grid, fin, lista_abierta, lista_cerrada):
     return vecinos_actualizados
 
 def reconstruir_camino(nodo_fin, draw):
+    """Reconstruye el camino desde el inicio hasta el fin"""
     camino = []
     actual = nodo_fin
     while actual.get_padre() is not None:
@@ -237,6 +241,7 @@ def reconstruir_camino(nodo_fin, draw):
     return camino
 
 def astar(draw, inicio, fin, grid):
+    """Implementación completa del algoritmo A*"""
     # Listas abierta y cerrada
     lista_abierta = []
     lista_cerrada = []

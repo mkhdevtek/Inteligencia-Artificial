@@ -1,0 +1,1992 @@
+[
+  {
+    "ID": 1,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gen Z-styled protests spread in Mexico",
+    "Medio": "Reuters",
+    "Fecha": "2025-11-16",
+    "Resumen": "Protestas tras asesinato de alcalde; enfrentamientos con policía.",
+    "Comentario_Reaccion": "Jóvenes exigen seguridad, no sólo retórica política. #MexicoProtesta",
+    "": ""
+  },
+  {
+    "ID": 2,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein ya en streaming",
+    "Medio": "Netflix Tudum",
+    "Fecha": "2025-11-07",
+    "Resumen": "La película se estrena en Netflix; estructura en tres actos.",
+    "Comentario_Reaccion": "La versión de Del Toro es increíblemente emotiva, ¡lágrimas garantizadas! #GDTFrankenstein",
+    "": ""
+  },
+  {
+    "ID": 3,
+    "Categoria": "Generacion Z",
+    "Titulo": "Sheinbaum desautoriza marcha de la generación Z",
+    "Medio": "El País",
+    "Fecha": "2025-11-17",
+    "Resumen": "Gobierno señala baja participación juvenil y presencia de opositores adultos.",
+    "Comentario_Reaccion": "Dicen que somos pocos, pero el ruido que hacemos es por todos. #SomosMas",
+    "": ""
+  },
+  {
+    "ID": 4,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro visita CDMX por estreno",
+    "Medio": "Milenio",
+    "Fecha": "2025-10-30",
+    "Resumen": "Del Toro y elenco asistirán a evento en Ciudad de México.",
+    "Comentario_Reaccion": "Necesito ir a la alfombra roja, GDT es un ídolo de la estética gótica. #CDMX",
+    "": ""
+  },
+  {
+    "ID": 5,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gobierno vincula marcha con desinformación",
+    "Medio": "El País",
+    "Fecha": "2025-11-13",
+    "Resumen": "Acusan campaña digital financiada con bots e influencers.",
+    "Comentario_Reaccion": "Siempre es más fácil culpar a los bots que escuchar la calle. #NoSoyUnBot",
+    "": ""
+  },
+  {
+    "ID": 6,
+    "Categoria": "Frankenstein",
+    "Titulo": "Estreno en cines mexicanos",
+    "Medio": "TV Azteca",
+    "Fecha": "2025-10-23",
+    "Resumen": "Se proyecta solo en cines seleccionados e independientes.",
+    "Comentario_Reaccion": "Una obra maestra que DEBE verse en pantalla grande. El sonido es vital.",
+    "": ""
+  },
+  {
+    "ID": 7,
+    "Categoria": "Generacion Z",
+    "Titulo": "Generación Z toma las calles",
+    "Medio": "Euronews",
+    "Fecha": "2025-11-16",
+    "Resumen": "20 detenidos y 100 policías heridos en movilizaciones.",
+    "Comentario_Reaccion": "Los enfrentamientos escalaron. Piden diálogo, no represión.",
+    "": ""
+  },
+  {
+    "ID": 8,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein llega a Netflix",
+    "Medio": "El Financiero",
+    "Fecha": "2025-11-04",
+    "Resumen": "Disponible en streaming desde el 7 de noviembre.",
+    "Comentario_Reaccion": "Perfecto para un maratón de terror melancólico este fin de semana.",
+    "": ""
+  },
+  {
+    "ID": 9,
+    "Categoria": "Generacion Z",
+    "Titulo": "Testimonios de jóvenes sobre protesta",
+    "Medio": "El País",
+    "Fecha": "2025-11-16",
+    "Resumen": "Jóvenes denuncian inseguridad, falta de medicinas y problemas sociales.",
+    "Comentario_Reaccion": "El grito es por el futuro que nos están robando. #MexicoDespierta",
+    "": ""
+  },
+  {
+    "ID": 10,
+    "Categoria": "Frankenstein",
+    "Titulo": "13 minutos de aplausos en Venecia",
+    "Medio": "El Financiero",
+    "Fecha": "2025-08-31",
+    "Resumen": "La película recibe ovación en el Festival de Venecia.",
+    "Comentario_Reaccion": "La crítica la ama. Del Toro lo vuelve a hacer con el género de monstruos.",
+    "": ""
+  },
+  {
+    "ID": 11,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis: ¿Qué busca realmente la Gen Z en las marchas?",
+    "Medio": "BBC Mundo",
+    "Fecha": "2025-11-18",
+    "Resumen": "Estudio indica desconfianza en instituciones y uso de memes como protesta.",
+    "Comentario_Reaccion": "Usamos los memes para reír, pero la indignación es real. #ProtestaDigital",
+    "": ""
+  },
+  {
+    "ID": 12,
+    "Categoria": "Frankenstein",
+    "Titulo": "Oscar a Mejor Maquillaje asegurado para GDT",
+    "Medio": "Variety",
+    "Fecha": "2025-11-15",
+    "Resumen": "Expertos predicen múltiples nominaciones por el diseño del Monstruo.",
+    "Comentario_Reaccion": "El look del Monstruo es desgarradoramente bello. Del Toro y su estética.",
+    "": ""
+  },
+  {
+    "ID": 13,
+    "Categoria": "Generacion Z",
+    "Titulo": "El factor TikTok en las protestas mexicanas",
+    "Medio": "DW",
+    "Fecha": "2025-11-15",
+    "Resumen": "La red social es la principal herramienta de convocatoria y difusión.",
+    "Comentario_Reaccion": "Vi el live de la marcha en TikTok, mucho más rápido que las noticias.",
+    "": ""
+  },
+  {
+    "ID": 14,
+    "Categoria": "Frankenstein",
+    "Titulo": "La nueva visión de la criatura de Del Toro",
+    "Medio": "Rolling Stone",
+    "Fecha": "2025-11-08",
+    "Resumen": "El director se enfoca en la soledad y la humanidad del Monstruo.",
+    "Comentario_Reaccion": "No es solo terror, es drama existencial. Mary Shelley estaría orgullosa.",
+    "": ""
+  },
+  {
+    "ID": 15,
+    "Categoria": "Generacion Z",
+    "Titulo": "Marcha: ¿El inicio de un nuevo movimiento juvenil?",
+    "Medio": "Reforma",
+    "Fecha": "2025-11-17",
+    "Resumen": "Sociólogos debaten si las protestas tienen el potencial de la Primavera Árabe.",
+    "Comentario_Reaccion": "Espero que sea el inicio de un cambio real, no solo un flash.",
+    "": ""
+  },
+  {
+    "ID": 16,
+    "Categoria": "Frankenstein",
+    "Titulo": "Elenco de lujo cautiva a la audiencia global",
+    "Medio": "Hollywood Reporter",
+    "Fecha": "2025-11-09",
+    "Resumen": "Análisis de las actuaciones de [Actor 1] y [Actor 2] como Dr. y Monstruo.",
+    "Comentario_Reaccion": "[Actor 2] como el Monstruo es brutal, sin palabras.",
+    "": ""
+  },
+  {
+    "ID": 17,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gobierno refuerza seguridad en el Zócalo",
+    "Medio": "Milenio",
+    "Fecha": "2025-11-14",
+    "Resumen": "Tras el intento de ocupación, se duplica la presencia policial.",
+    "Comentario_Reaccion": "Mucha seguridad para cuidar edificios, y poca para cuidar ciudadanos.",
+    "": ""
+  },
+  {
+    "ID": 18,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein: ¿La obra maestra más oscura de GDT?",
+    "Medio": "IndieWire",
+    "Fecha": "2025-11-10",
+    "Resumen": "Comparación con El Laberinto del Fauno y La Forma del Agua.",
+    "Comentario_Reaccion": "Más oscura, más profunda, más dolorosa. Del Toro en su mejor forma.",
+    "": ""
+  },
+  {
+    "ID": 19,
+    "Categoria": "Generacion Z",
+    "Titulo": "¿Quién financia la movilización digital de la Gen Z?",
+    "Medio": "El Universal",
+    "Fecha": "2025-11-13",
+    "Resumen": "Investigación sobre el origen de los hashtags virales.",
+    "Comentario_Reaccion": "Es increíble cómo minimizan nuestra voz llamándola 'financiada'.",
+    "": ""
+  },
+  {
+    "ID": 20,
+    "Categoria": "Frankenstein",
+    "Titulo": "La estética victoriana y el detalle de producción",
+    "Medio": "Screen Rant",
+    "Fecha": "2025-11-06",
+    "Resumen": "Entrevista con la diseñadora de producción sobre el mundo de la película.",
+    "Comentario_Reaccion": "Cada toma es una pintura, la dirección de arte es de otro mundo.",
+    "": ""
+  },
+  {
+    "ID": 21,
+    "Categoria": "Generacion Z",
+    "Titulo": "Estudiantes se suman a las demandas de la marcha",
+    "Medio": "La Jornada",
+    "Fecha": "2025-11-15",
+    "Resumen": "Facultades de la UNAM y el IPN emiten comunicados de apoyo.",
+    "Comentario_Reaccion": "Es un movimiento estudiantil y social. ¡Todos juntos!",
+    "": ""
+  },
+  {
+    "ID": 22,
+    "Categoria": "Frankenstein",
+    "Titulo": "Tráiler rompe récord de vistas en Netflix",
+    "Medio": "Forbes",
+    "Fecha": "2025-10-01",
+    "Resumen": "El avance de la película se vuelve viral en horas.",
+    "Comentario_Reaccion": "El tráiler me puso la piel de gallina. Del Toro sabe cómo vender monstruos.",
+    "": ""
+  },
+  {
+    "ID": 23,
+    "Categoria": "Generacion Z",
+    "Titulo": "Influencers denuncian intimidación tras apoyar las protestas",
+    "Medio": "El País",
+    "Fecha": "2025-11-17",
+    "Resumen": "Cuentas grandes reportan ataques coordinados y amenazas.",
+    "Comentario_Reaccion": "Si apoyas la protesta, te atacan. Es un miedo constante.",
+    "": ""
+  },
+  {
+    "ID": 24,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro sobre la ciencia: \"Es la ambición humana",
+    "Medio": "The Guardian",
+    "Fecha": "2025-11-07",
+    "Resumen": "Cita del director sobre el verdadero horror de la historia.",
+    "Comentario_Reaccion": "La ciencia sin ética es el verdadero monstruo. Del Toro lo entiende.",
+    "": ""
+  },
+  {
+    "ID": 25,
+    "Categoria": "Generacion Z",
+    "Titulo": "México: La generación del cambio social",
+    "Medio": "CNN Español",
+    "Fecha": "2025-11-18",
+    "Resumen": "Reportaje especial sobre el activismo juvenil en Latam.",
+    "Comentario_Reaccion": "Gen Z está harta de promesas vacías, es hora de actuar.",
+    "": ""
+  },
+  {
+    "ID": 26,
+    "Categoria": "Frankenstein",
+    "Titulo": "Critica: La obra que define la filmografía de Del Toro",
+    "Medio": "SensaCine",
+    "Fecha": "2025-11-05",
+    "Resumen": "Una reseña que alaba la madurez narrativa y visual del director.",
+    "Comentario_Reaccion": "Mi película favorita de GDT, punto.",
+    "": ""
+  },
+  {
+    "ID": 27,
+    "Categoria": "Generacion Z",
+    "Titulo": "Padres de familia expresan apoyo a la marcha de sus hijos",
+    "Medio": "El Heraldo",
+    "Fecha": "2025-11-16",
+    "Resumen": "Adultos mayores se unen a las filas en solidaridad.",
+    "Comentario_Reaccion": "No es solo la Gen Z, es una preocupación nacional.",
+    "": ""
+  },
+  {
+    "ID": 28,
+    "Categoria": "Frankenstein",
+    "Titulo": "Análisis: ¿Por qué Frankenstein sigue siendo relevante?",
+    "Medio": "Vulture",
+    "Fecha": "2025-11-12",
+    "Resumen": "La historia toca temas de rechazo social y disidencia.",
+    "Comentario_Reaccion": "La Gen Z se identifica mucho con el Monstruo, un marginado incomprendido.",
+    "": ""
+  },
+  {
+    "ID": 29,
+    "Categoria": "Generacion Z",
+    "Titulo": "Hashtags de protesta se vuelven *trending* mundial",
+    "Medio": "Twitter News",
+    "Fecha": "2025-11-15",
+    "Resumen": "#MexicoDespierta y #GenZPorLaPaz lideran tendencias.",
+    "Comentario_Reaccion": "La protesta digital es la nueva plaza pública.",
+    "": ""
+  },
+  {
+    "ID": 30,
+    "Categoria": "Frankenstein",
+    "Titulo": "Efectos visuales minimalistas y el poder de la caracterización",
+    "Medio": "FX Magazine",
+    "Fecha": "2025-11-10",
+    "Resumen": "El uso de maquillaje práctico sobre CGI es un acierto.",
+    "Comentario_Reaccion": "Gracias Del Toro por el maquillaje tradicional. Se siente más real.",
+    "": ""
+  },
+  {
+    "ID": 31,
+    "Categoria": "Generacion Z",
+    "Titulo": "Policía Cibernética investiga origen de desinformación",
+    "Medio": "El País",
+    "Fecha": "2025-11-14",
+    "Resumen": "Señalan cuentas vinculadas a grupos de oposición.",
+    "Comentario_Reaccion": "La narrativa de culpar al otro nunca cambia.",
+    "": ""
+  },
+  {
+    "ID": 32,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro en entrevista: \"Es una carta de amor a Mary Shelley",
+    "Medio": "CinemaBlend",
+    "Fecha": "2025-11-07",
+    "Resumen": "El director discute la fidelidad al espíritu del libro.",
+    "Comentario_Reaccion": "Se siente el respeto por la fuente original.",
+    "": ""
+  },
+  {
+    "ID": 33,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis: Las demandas económicas de la Generación Z",
+    "Medio": "Expansión",
+    "Fecha": "2025-11-17",
+    "Resumen": "Los jóvenes exigen salarios dignos y acceso a la vivienda.",
+    "Comentario_Reaccion": "No podemos pagar la renta, el problema no es solo político.",
+    "": ""
+  },
+  {
+    "ID": 34,
+    "Categoria": "Frankenstein",
+    "Titulo": "Los 5 momentos más emotivos de Frankenstein (Spoiler Free)",
+    "Medio": "BuzzFeed",
+    "Fecha": "2025-11-09",
+    "Resumen": "Lista de escenas destacadas por su carga dramática.",
+    "Comentario_Reaccion": "El momento del espejo es devastador.",
+    "": ""
+  },
+  {
+    "ID": 35,
+    "Categoria": "Generacion Z",
+    "Titulo": "México D.F.: Centro de la protesta juvenil",
+    "Medio": "Reuters",
+    "Fecha": "2025-11-16",
+    "Resumen": "Cientos se congregan en el Ángel de la Independencia.",
+    "Comentario_Reaccion": "El Ángel es nuestro punto de reunión, el símbolo de la libertad.",
+    "": ""
+  },
+  {
+    "ID": 36,
+    "Categoria": "Frankenstein",
+    "Titulo": "¿Habrá secuela? GDT responde",
+    "Medio": "Collider",
+    "Fecha": "2025-11-14",
+    "Resumen": "Del Toro dice que esta es una historia autocontenida.",
+    "Comentario_Reaccion": "Perfecto, no necesita secuela. Es completa así.",
+    "": ""
+  },
+  {
+    "ID": 37,
+    "Categoria": "Generacion Z",
+    "Titulo": "Uso de tecnología para evitar represión policial",
+    "Medio": "VICE News",
+    "Fecha": "2025-11-15",
+    "Resumen": "Apps de mensajería cifrada y transmisión en vivo para documentar abusos.",
+    "Comentario_Reaccion": "Hay que estar protegidos. Documentar es protegernos.",
+    "": ""
+  },
+  {
+    "ID": 38,
+    "Categoria": "Frankenstein",
+    "Titulo": "El papel del color y la luz en la película",
+    "Medio": "FilmeNow",
+    "Fecha": "2025-11-06",
+    "Resumen": "Análisis visual del director de fotografía.",
+    "Comentario_Reaccion": "La paleta de colores es sombría y hermosa.",
+    "": ""
+  },
+  {
+    "ID": 39,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gobierno acusa vandalismo en monumentos históricos",
+    "Medio": "INAH",
+    "Fecha": "2025-11-17",
+    "Resumen": "Daños en edificios y estatuas tras los enfrentamientos.",
+    "Comentario_Reaccion": "Una minoría violenta desvía la atención de las demandas reales.",
+    "": ""
+  },
+  {
+    "ID": 40,
+    "Categoria": "Frankenstein",
+    "Titulo": "Estreno de Frankenstein genera debate en Reddit",
+    "Medio": "Reddit r/movies",
+    "Fecha": "2025-11-08",
+    "Resumen": "Discusión sobre la adaptación y la controversia del casting.",
+    "Comentario_Reaccion": "Hay opiniones divididas, pero la mayoría ama la dirección de GDT.",
+    "": ""
+  },
+  {
+    "ID": 41,
+    "Categoria": "Generacion Z",
+    "Titulo": "Movilización: ¿Una ola organizada o espontánea?",
+    "Medio": "El País",
+    "Fecha": "2025-11-18",
+    "Resumen": "Expertos debaten la naturaleza del movimiento juvenil.",
+    "Comentario_Reaccion": "Es espontáneo pero con un sentimiento colectivo.",
+    "": ""
+  },
+  {
+    "ID": 42,
+    "Categoria": "Frankenstein",
+    "Titulo": "Actores describen el proceso de maquillaje como \"tortuoso",
+    "Medio": "The Hollywood Reporter",
+    "Fecha": "2025-11-11",
+    "Resumen": "Horas de trabajo diario para lograr la apariencia del Monstruo.",
+    "Comentario_Reaccion": "El compromiso del actor es admirable.",
+    "": ""
+  },
+  {
+    "ID": 43,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis de lenguaje visual de la protesta",
+    "Medio": "Diseño MX",
+    "Fecha": "2025-11-15",
+    "Resumen": "Uso de carteles minimalistas y referencias a memes.",
+    "Comentario_Reaccion": "El diseño comunica más que un discurso largo.",
+    "": ""
+  },
+  {
+    "ID": 44,
+    "Categoria": "Frankenstein",
+    "Titulo": "La música de [Compositor] eleva la emoción",
+    "Medio": "Soundtrack World",
+    "Fecha": "2025-11-05",
+    "Resumen": "Reseña de la banda sonora de la película.",
+    "Comentario_Reaccion": "La música es épica y melancólica, un 10/10.",
+    "": ""
+  },
+  {
+    "ID": 45,
+    "Categoria": "Generacion Z",
+    "Titulo": "Jóvenes convocan a una segunda marcha en diciembre",
+    "Medio": "Redes Sociales",
+    "Fecha": "2025-11-17",
+    "Resumen": "La convocatoria es para el día 10 de diciembre.",
+    "Comentario_Reaccion": "No nos cansaremos hasta ser escuchados.",
+    "": ""
+  },
+  {
+    "ID": 46,
+    "Categoria": "Frankenstein",
+    "Titulo": "Comparativa: ¿Mejor que las versiones clásicas?",
+    "Medio": "Den of Geek",
+    "Fecha": "2025-11-07",
+    "Resumen": "El artículo compara la nueva versión con las de la Universal.",
+    "Comentario_Reaccion": "Es diferente, pero respeta el alma del mito.",
+    "": ""
+  },
+  {
+    "ID": 47,
+    "Categoria": "Generacion Z",
+    "Titulo": "Marcha: Un grito contra la corrupción y la impunidad",
+    "Medio": "W Radio",
+    "Fecha": "2025-11-16",
+    "Resumen": "Las demandas centrales giran en torno a la justicia.",
+    "Comentario_Reaccion": "Queremos justicia por todos los crímenes impunes.",
+    "": ""
+  },
+  {
+    "ID": 48,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro: \"El Monstruo es el niño herido",
+    "Medio": "Entrevista Televisa",
+    "Fecha": "2025-11-04",
+    "Resumen": "El director explica su enfoque psicológico del personaje.",
+    "Comentario_Reaccion": "Una visión tierna y trágica a la vez.",
+    "": ""
+  },
+  {
+    "ID": 49,
+    "Categoria": "Generacion Z",
+    "Titulo": "Testimonios: Jóvenes que fueron por primera vez a marchar",
+    "Medio": "Aristegui Noticias",
+    "Fecha": "2025-11-18",
+    "Resumen": "Historias de la experiencia inicial en las protestas.",
+    "Comentario_Reaccion": "Sentí miedo, pero también mucha esperanza al ver a tantos jóvenes.",
+    "": ""
+  },
+  {
+    "ID": 50,
+    "Categoria": "Frankenstein",
+    "Titulo": "Éxito de taquilla limitada en cines independientes",
+    "Medio": "Box Office Guru",
+    "Fecha": "2025-11-13",
+    "Resumen": "La película tuvo buenas cifras antes de pasar a streaming.",
+    "Comentario_Reaccion": "Vale la pena pagar el cine, es una experiencia inmersiva.",
+    "": ""
+  },
+  {
+    "ID": 51,
+    "Categoria": "Generacion Z",
+    "Titulo": "Movilización en Guadalajara y Monterrey",
+    "Medio": "El Norte",
+    "Fecha": "2025-11-16",
+    "Resumen": "Las protestas se replican en otros estados clave.",
+    "Comentario_Reaccion": "No es solo CDMX, la inconformidad es nacional.",
+    "": ""
+  },
+  {
+    "ID": 52,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro explica el final alternativo",
+    "Medio": "Revista Empire",
+    "Fecha": "2025-11-15",
+    "Resumen": "Detalles sobre las escenas eliminadas y cambios de guion.",
+    "Comentario_Reaccion": "Interesante, pero el final que eligió es perfecto.",
+    "": ""
+  },
+  {
+    "ID": 53,
+    "Categoria": "Generacion Z",
+    "Titulo": "Debate en Twitter: ¿Falta de liderazgo en la Gen Z?",
+    "Medio": "El Universal",
+    "Fecha": "2025-11-17",
+    "Resumen": "Algunos critican la falta de una figura central en el movimiento.",
+    "Comentario_Reaccion": "No necesitamos líderes, somos una red distribuida.",
+    "": ""
+  },
+  {
+    "ID": 54,
+    "Categoria": "Frankenstein",
+    "Titulo": "Análisis del vestuario como herramienta narrativa",
+    "Medio": "Vogue México",
+    "Fecha": "2025-11-08",
+    "Resumen": "La ropa refleja el estatus y la decadencia moral.",
+    "Comentario_Reaccion": "El vestuario es sombrío y elegante, muy GDT.",
+    "": ""
+  },
+  {
+    "ID": 55,
+    "Categoria": "Generacion Z",
+    "Titulo": "Reporte: Uso de VPN y Tor para comunicación segura",
+    "Medio": "TechCrunch",
+    "Fecha": "2025-11-15",
+    "Resumen": "La Gen Z utiliza herramientas digitales para evadir vigilancia.",
+    "Comentario_Reaccion": "La seguridad digital es parte de la protesta.",
+    "": ""
+  },
+  {
+    "ID": 56,
+    "Categoria": "Frankenstein",
+    "Titulo": "Netflix compra los derechos globales por una cifra millonaria",
+    "Medio": "Deadline",
+    "Fecha": "2025-10-25",
+    "Resumen": "El acuerdo garantiza una distribución masiva.",
+    "Comentario_Reaccion": "La única forma de verla es con una buena plataforma.",
+    "": ""
+  },
+  {
+    "ID": 57,
+    "Categoria": "Generacion Z",
+    "Titulo": "El lenguaje inclusivo y la Gen Z en la protesta",
+    "Medio": "Cultura Colectiva",
+    "Fecha": "2025-11-16",
+    "Resumen": "Análisis del vocabulario utilizado en las consignas.",
+    "Comentario_Reaccion": "La Gen Z trae consigo una nueva forma de hablar y protestar.",
+    "": ""
+  },
+  {
+    "ID": 58,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro sobre el CGI: \"Solo donde sea estrictamente necesario",
+    "Medio": "Video Production",
+    "Fecha": "2025-11-06",
+    "Resumen": "Énfasis en los efectos prácticos y la artesanía.",
+    "Comentario_Reaccion": "Se nota la mano de un maestro artesano.",
+    "": ""
+  },
+  {
+    "ID": 59,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gobierno acusa a partidos de derecha de infiltrar la marcha",
+    "Medio": "Milenio",
+    "Fecha": "2025-11-14",
+    "Resumen": "Argumentan que buscan desestabilizar la administración.",
+    "Comentario_Reaccion": "La vieja política siempre tratando de manipularnos.",
+    "": ""
+  },
+  {
+    "ID": 60,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein: El monstruo que nos obliga a vernos",
+    "Medio": "Psicología y Cine",
+    "Fecha": "2025-11-11",
+    "Resumen": "Análisis psicológico de la relación creador-criatura.",
+    "Comentario_Reaccion": "Refleja nuestras propias inseguridades y rechazos.",
+    "": ""
+  },
+  {
+    "ID": 61,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gen Z crea su propia narrativa en YouTube",
+    "Medio": "YouTube Trends",
+    "Fecha": "2025-11-16",
+    "Resumen": "Canales de jóvenes documentan la marcha sin filtros.",
+    "Comentario_Reaccion": "La mejor cobertura está en los canales independientes.",
+    "": ""
+  },
+  {
+    "ID": 62,
+    "Categoria": "Frankenstein",
+    "Titulo": "La iluminación como personaje en el film de Del Toro",
+    "Medio": "Cinephilia",
+    "Fecha": "2025-11-09",
+    "Resumen": "Estudio de cómo el claroscuro define el tono de la película.",
+    "Comentario_Reaccion": "Cada escena parece sacada de un cuadro barroco.",
+    "": ""
+  },
+  {
+    "ID": 63,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis: Diferencias con el movimiento estudiantil del 68",
+    "Medio": "History Channel",
+    "Fecha": "2025-11-18",
+    "Resumen": "Comparativa entre el activismo actual y el pasado.",
+    "Comentario_Reaccion": "Diferentes épocas, la misma necesidad de cambio.",
+    "": ""
+  },
+  {
+    "ID": 64,
+    "Categoria": "Frankenstein",
+    "Titulo": "La visión del Dr. Frankenstein como un niño caprichoso",
+    "Medio": "The New Yorker",
+    "Fecha": "2025-11-12",
+    "Resumen": "Crítica que examina la inmadurez moral del científico.",
+    "Comentario_Reaccion": "El Dr. es el verdadero villano, un irresponsable narcisista.",
+    "": ""
+  },
+  {
+    "ID": 65,
+    "Categoria": "Generacion Z",
+    "Titulo": "Reporte de Derechos Humanos condena uso excesivo de la fuerza",
+    "Medio": "Amnistía Internacional",
+    "Fecha": "2025-11-17",
+    "Resumen": "Documentan agresiones a manifestantes pacíficos.",
+    "Comentario_Reaccion": "El estado no respeta nuestros derechos.",
+    "": ""
+  },
+  {
+    "ID": 66,
+    "Categoria": "Frankenstein",
+    "Titulo": "Guillermo del Toro anuncia un libro de arte de la película",
+    "Medio": "Dark Horse Comics",
+    "Fecha": "2025-11-14",
+    "Resumen": "El tomo contendrá bocetos y diseños conceptuales.",
+    "Comentario_Reaccion": "¡Comprado! Necesito ver el proceso creativo de GDT.",
+    "": ""
+  },
+  {
+    "ID": 67,
+    "Categoria": "Generacion Z",
+    "Titulo": "Economistas advierten sobre el impacto de la inestabilidad social",
+    "Medio": "Financial Times",
+    "Fecha": "2025-11-18",
+    "Resumen": "Las protestas pueden afectar la inversión extranjera.",
+    "Comentario_Reaccion": "La inestabilidad la crea el gobierno que no escucha.",
+    "": ""
+  },
+  {
+    "ID": 68,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein y el cine gótico: Un regreso a las raíces",
+    "Medio": "Horror Freak",
+    "Fecha": "2025-11-05",
+    "Resumen": "La película abraza la tradición del horror clásico.",
+    "Comentario_Reaccion": "Un homenaje perfecto a los monstruos de antaño.",
+    "": ""
+  },
+  {
+    "ID": 69,
+    "Categoria": "Generacion Z",
+    "Titulo": "Manifestantes utilizan drones para documentar la marcha",
+    "Medio": "Tecnología para el Cambio",
+    "Fecha": "2025-11-16",
+    "Resumen": "Cámaras aéreas registran la magnitud de la concentración.",
+    "Comentario_Reaccion": "Los drones muestran la verdad que los medios no quieren ver.",
+    "": ""
+  },
+  {
+    "ID": 70,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro agradece el recibimiento: \"Una obra personal",
+    "Medio": "Discurso de Premiere",
+    "Fecha": "2025-10-30",
+    "Resumen": "El director se emociona al hablar de su conexión con la historia.",
+    "Comentario_Reaccion": "Se siente la pasión en cada fotograma.",
+    "": ""
+  },
+  {
+    "ID": 71,
+    "Categoria": "Generacion Z",
+    "Titulo": "Comentarios: La marcha dividió a las familias",
+    "Medio": "Foros de Debate",
+    "Fecha": "2025-11-17",
+    "Resumen": "Generaciones mayores critican la falta de respeto a la autoridad.",
+    "Comentario_Reaccion": "Mis papás no entienden por qué salgo a la calle.",
+    "": ""
+  },
+  {
+    "ID": 72,
+    "Categoria": "Frankenstein",
+    "Titulo": "El Monstruo de Del Toro: ¿El más vulnerable de todos?",
+    "Medio": "Film Comment",
+    "Fecha": "2025-11-10",
+    "Resumen": "El análisis de la interpretación de [Actor 2] como figura trágica.",
+    "Comentario_Reaccion": "Su vulnerabilidad es lo que lo hace tan humano.",
+    "": ""
+  },
+  {
+    "ID": 73,
+    "Categoria": "Generacion Z",
+    "Titulo": "Influencers promueven boicot a marcas que no se pronuncian",
+    "Medio": "TikTok",
+    "Fecha": "2025-11-15",
+    "Resumen": "Piden a las empresas tomar posición política.",
+    "Comentario_Reaccion": "Si las marcas no nos apoyan, no las consumimos.",
+    "": ""
+  },
+  {
+    "ID": 74,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein: Un éxito inesperado de Netflix Latam",
+    "Medio": "Netflix Data",
+    "Fecha": "2025-11-14",
+    "Resumen": "La película se posiciona como la más vista en la región.",
+    "Comentario_Reaccion": "¡Qué orgullo para un director mexicano!",
+    "": ""
+  },
+  {
+    "ID": 75,
+    "Categoria": "Generacion Z",
+    "Titulo": "La voz de la Generación Z en los medios tradicionales",
+    "Medio": "Prensa Libre",
+    "Fecha": "2025-11-18",
+    "Resumen": "Los medios dan más espacio a las demandas de los jóvenes.",
+    "Comentario_Reaccion": "Es bueno que por fin nos escuchen en la radio.",
+    "": ""
+  },
+  {
+    "ID": 76,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro sobre el final: \"Un toque de esperanza",
+    "Medio": "Entrevista Exclusiva",
+    "Fecha": "2025-11-07",
+    "Resumen": "El director defiende un cierre menos nihilista.",
+    "Comentario_Reaccion": "Un final con esa pequeña luz es muy Del Toro.",
+    "": ""
+  },
+  {
+    "ID": 77,
+    "Categoria": "Generacion Z",
+    "Titulo": "Activistas denuncian detenciones arbitrarias",
+    "Medio": "ONG Derechos Humanos",
+    "Fecha": "2025-11-16",
+    "Resumen": "Piden la liberación inmediata de los detenidos.",
+    "Comentario_Reaccion": "La represión es la respuesta del miedo.",
+    "": ""
+  },
+  {
+    "ID": 78,
+    "Categoria": "Frankenstein",
+    "Titulo": "El impacto de la película en la moda gótica actual",
+    "Medio": "Fashionista",
+    "Fecha": "2025-11-10",
+    "Resumen": "Las tendencias de vestuario de la película inspiran nuevos looks.",
+    "Comentario_Reaccion": "Me copio el look de Victor, muy elegante y oscuro.",
+    "": ""
+  },
+  {
+    "ID": 79,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis de los cánticos y consignas de la marcha",
+    "Medio": "Lingüística Social",
+    "Fecha": "2025-11-17",
+    "Resumen": "El uso del sarcasmo y el humor negro en las protestas.",
+    "Comentario_Reaccion": "La mejor forma de protestar es con inteligencia y humor.",
+    "": ""
+  },
+  {
+    "ID": 80,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein en el Top 10 de IMDb",
+    "Medio": "IMDb Charts",
+    "Fecha": "2025-11-15",
+    "Resumen": "La película mantiene una alta calificación entre los usuarios.",
+    "Comentario_Reaccion": "Una joya que será un clásico instantáneo.",
+    "": ""
+  },
+  {
+    "ID": 81,
+    "Categoria": "Generacion Z",
+    "Titulo": "Usuarios de Reddit discuten la efectividad de las marchas",
+    "Medio": "Reddit r/Mexico",
+    "Fecha": "2025-11-18",
+    "Resumen": "Debate sobre si el cambio se logra en la calle o en las urnas.",
+    "Comentario_Reaccion": "Ambos. La calle presiona, la urna decide.",
+    "": ""
+  },
+  {
+    "ID": 82,
+    "Categoria": "Frankenstein",
+    "Titulo": "La crítica elogia la cinematografía en blanco y negro (Versión especial)",
+    "Medio": "Sundance Review",
+    "Fecha": "2025-11-12",
+    "Resumen": "Se lanzó una edición limitada en blanco y negro para cines.",
+    "Comentario_Reaccion": "El B&N le da un aire más clásico y dramático.",
+    "": ""
+  },
+  {
+    "ID": 83,
+    "Categoria": "Generacion Z",
+    "Titulo": "Cobertura en vivo de la marcha es la más vista en Facebook",
+    "Medio": "Facebook Live",
+    "Fecha": "2025-11-16",
+    "Resumen": "Miles de personas siguieron la transmisión en tiempo real.",
+    "Comentario_Reaccion": "Vi todo desde casa, me sentí parte de ello.",
+    "": ""
+  },
+  {
+    "ID": 85,
+    "Categoria": "Generacion Z",
+    "Titulo": "La Generación Z y su relación con el pasado político",
+    "Medio": "Revista Nexos",
+    "Fecha": "2025-11-17",
+    "Resumen": "Los jóvenes critican a generaciones anteriores por la inacción.",
+    "Comentario_Reaccion": "Heredamos un país roto, nos toca arreglarlo.",
+    "": ""
+  },
+  {
+    "ID": 86,
+    "Categoria": "Frankenstein",
+    "Titulo": "Actriz [Actriz 3] sobre el rol femenino en la historia",
+    "Medio": "Women in Film",
+    "Fecha": "2025-11-11",
+    "Resumen": "El papel de las mujeres en la nueva adaptación.",
+    "Comentario_Reaccion": "Los personajes femeninos son más fuertes y complejos.",
+    "": ""
+  },
+  {
+    "ID": 87,
+    "Categoria": "Generacion Z",
+    "Titulo": "Marcha es calificada como \"evento generacional",
+    "Medio": "Analistas Políticos",
+    "Fecha": "2025-11-18",
+    "Resumen": "Se compara el impacto cultural con el Vive Latino.",
+    "Comentario_Reaccion": "Un evento que marcará a esta generación.",
+    "": ""
+  },
+  {
+    "ID": 88,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein es la película más tuiteada de la semana",
+    "Medio": "Twitter Trends",
+    "Fecha": "2025-11-08",
+    "Resumen": "Millones de menciones sobre el estreno.",
+    "Comentario_Reaccion": "El hype es real, todos están hablando de ella.",
+    "": ""
+  },
+  {
+    "ID": 89,
+    "Categoria": "Generacion Z",
+    "Titulo": "Grupos de apoyo legal asisten a detenidos",
+    "Medio": "Pro Bono México",
+    "Fecha": "2025-11-16",
+    "Resumen": "Abogados ofrecen ayuda gratuita a los arrestados.",
+    "Comentario_Reaccion": "La solidaridad legal es clave en las protestas.",
+    "": ""
+  },
+  {
+    "ID": 90,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro elogia la actuación de [Actor 4] como Henry Clerval",
+    "Medio": "Entrevista Backstage",
+    "Fecha": "2025-11-07",
+    "Resumen": "El director destaca el soporte emocional del personaje.",
+    "Comentario_Reaccion": "Clerval es la única luz en la oscuridad del Dr. Frankenstein.",
+    "": ""
+  },
+  {
+    "ID": 91,
+    "Categoria": "Generacion Z",
+    "Titulo": "El uso de códigos y emojis en la convocatoria",
+    "Medio": "Wired",
+    "Fecha": "2025-11-15",
+    "Resumen": "Análisis de cómo se organizan secretamente.",
+    "Comentario_Reaccion": "Usamos códigos para evitar la censura.",
+    "": ""
+  },
+  {
+    "ID": 92,
+    "Categoria": "Frankenstein",
+    "Titulo": "Los coleccionables de Frankenstein se agotan en línea",
+    "Medio": "Merchandise News",
+    "Fecha": "2025-11-13",
+    "Resumen": "Figuras y pósters de edición limitada.",
+    "Comentario_Reaccion": "Quiero el Funko Pop del Monstruo inmediatamente.",
+    "": ""
+  },
+  {
+    "ID": 93,
+    "Categoria": "Generacion Z",
+    "Titulo": "Medios internacionales critican la respuesta del gobierno",
+    "Medio": "The New York Times",
+    "Fecha": "2025-11-17",
+    "Resumen": "La reacción oficial es vista como minimización.",
+    "Comentario_Reaccion": "El mundo está viendo cómo nos tratan.",
+    "": ""
+  },
+  {
+    "ID": 94,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein: Una clase magistral de diseño de sonido",
+    "Medio": "Audio Post",
+    "Fecha": "2025-11-10",
+    "Resumen": "El uso del silencio y los efectos de sonido gutural.",
+    "Comentario_Reaccion": "El sonido del latido del Monstruo es aterrador.",
+    "": ""
+  },
+  {
+    "ID": 95,
+    "Categoria": "Generacion Z",
+    "Titulo": "Testimonios de desalojo en la Alameda Central",
+    "Medio": "Diario de México",
+    "Fecha": "2025-11-16",
+    "Resumen": "Cuentas de primera mano sobre la intervención policial.",
+    "Comentario_Reaccion": "Fue violento y desproporcionado.",
+    "": ""
+  },
+  {
+    "ID": 96,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro: \"Es una tragedia sobre la paternidad fallida",
+    "Medio": "Focus Features",
+    "Fecha": "2025-11-05",
+    "Resumen": "El director se enfoca en la responsabilidad del creador.",
+    "Comentario_Reaccion": "Es la peor historia de un papá que abandona a su hijo.",
+    "": ""
+  },
+  {
+    "ID": 97,
+    "Categoria": "Generacion Z",
+    "Titulo": "Las 'Fake News' sobre la marcha: Desmentidos de la Gen Z",
+    "Medio": "VerificadorMx",
+    "Fecha": "2025-11-15",
+    "Resumen": "Jóvenes usan sus redes para desmentir rumores oficiales.",
+    "Comentario_Reaccion": "Nos toca a nosotros ser los verificadores.",
+    "": ""
+  },
+  {
+    "ID": 98,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein se proyecta en la Cineteca Nacional",
+    "Medio": "Cineteca Agenda",
+    "Fecha": "2025-10-28",
+    "Resumen": "Función especial con presencia de críticos.",
+    "Comentario_Reaccion": "Verla en la Cineteca es un ritual.",
+    "": ""
+  },
+  {
+    "ID": 99,
+    "Categoria": "Generacion Z",
+    "Titulo": "Impacto en la cultura pop: Músicos se unen a la protesta",
+    "Medio": "Rolling Stone MX",
+    "Fecha": "2025-11-17",
+    "Resumen": "Bandas de rock y rap se pronuncian y donan fondos.",
+    "Comentario_Reaccion": "La música siempre ha estado con el movimiento.",
+    "": ""
+  },
+  {
+    "ID": 100,
+    "Categoria": "Frankenstein",
+    "Titulo": "La controversia del casting en redes sociales",
+    "Medio": "Twitter Debate",
+    "Fecha": "2025-11-04",
+    "Resumen": "Discusión sobre la elección de un actor 'demasiado guapo'.",
+    "Comentario_Reaccion": "El maquillaje lo arregla, pero la esencia es Del Toro.",
+    "": ""
+  },
+  {
+    "ID": 101,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gen Z-styled protests spread in Mexico",
+    "Medio": "Reuters",
+    "Fecha": "2025-11-16",
+    "Resumen": "Protestas tras asesinato de alcalde; enfrentamientos con policía.",
+    "Comentario_Reaccion": "El hartazgo juvenil es evidente en cada pancarta.",
+    "": ""
+  },
+  {
+    "ID": 102,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein ya en streaming",
+    "Medio": "Netflix Tudum",
+    "Fecha": "2025-11-07",
+    "Resumen": "La película se estrena en Netflix; estructura en tres actos.",
+    "Comentario_Reaccion": "La mejor adaptación del clásico en décadas, ¡imperdible!",
+    "": ""
+  },
+  {
+    "ID": 103,
+    "Categoria": "Generacion Z",
+    "Titulo": "Sheinbaum desautoriza marcha de la generación Z",
+    "Medio": "El País",
+    "Fecha": "2025-11-17",
+    "Resumen": "Gobierno señala baja participación juvenil y presencia de opositores adultos.",
+    "Comentario_Reaccion": "No importa cuántos éramos, sino el mensaje que dimos.",
+    "": ""
+  },
+  {
+    "ID": 104,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro visita CDMX por estreno",
+    "Medio": "Milenio",
+    "Fecha": "2025-10-30",
+    "Resumen": "Del Toro y elenco asistirán a evento en Ciudad de México.",
+    "Comentario_Reaccion": "México celebra a su genio del cine. ¡Un orgullo!",
+    "": ""
+  },
+  {
+    "ID": 105,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gobierno vincula marcha con desinformación",
+    "Medio": "El País",
+    "Fecha": "2025-11-13",
+    "Resumen": "Acusan campaña digital financiada con bots e influencers.",
+    "Comentario_Reaccion": "Si el gobierno lo niega, es porque es verdad lo que decimos.",
+    "": ""
+  },
+  {
+    "ID": 106,
+    "Categoria": "Frankenstein",
+    "Titulo": "Estreno en cines mexicanos",
+    "Medio": "TV Azteca",
+    "Fecha": "2025-10-23",
+    "Resumen": "Se proyecta solo en cines seleccionados e independientes.",
+    "Comentario_Reaccion": "Una experiencia cinematográfica que vale cada peso.",
+    "": ""
+  },
+  {
+    "ID": 107,
+    "Categoria": "Generacion Z",
+    "Titulo": "Generación Z toma las calles",
+    "Medio": "Euronews",
+    "Fecha": "2025-11-16",
+    "Resumen": "20 detenidos y 100 policías heridos en movilizaciones.",
+    "Comentario_Reaccion": "La tensión en las calles es insostenible.",
+    "": ""
+  },
+  {
+    "ID": 108,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein llega a Netflix",
+    "Medio": "El Financiero",
+    "Fecha": "2025-11-04",
+    "Resumen": "Disponible en streaming desde el 7 de noviembre.",
+    "Comentario_Reaccion": "Lista para verla 3 veces seguidas. ¡Qué obra!",
+    "": ""
+  },
+  {
+    "ID": 109,
+    "Categoria": "Generacion Z",
+    "Titulo": "Testimonios de jóvenes sobre protesta",
+    "Medio": "El País",
+    "Fecha": "2025-11-16",
+    "Resumen": "Jóvenes denuncian inseguridad, falta de medicinas y problemas sociales.",
+    "Comentario_Reaccion": "La protesta es multifactorial, no es solo un tema.",
+    "": ""
+  },
+  {
+    "ID": 110,
+    "Categoria": "Frankenstein",
+    "Titulo": "13 minutos de aplausos en Venecia",
+    "Medio": "El Financiero",
+    "Fecha": "2025-08-31",
+    "Resumen": "La película recibe ovación en el Festival de Venecia.",
+    "Comentario_Reaccion": "Merecidos aplausos para el maestro Del Toro.",
+    "": ""
+  },
+  {
+    "ID": 111,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis: ¿Qué busca realmente la Gen Z en las marchas?",
+    "Medio": "BBC Mundo",
+    "Fecha": "2025-11-18",
+    "Resumen": "Estudio indica desconfianza en instituciones y uso de memes como protesta.",
+    "Comentario_Reaccion": "El meme es la herramienta de la sátira política moderna.",
+    "": ""
+  },
+  {
+    "ID": 112,
+    "Categoria": "Frankenstein",
+    "Titulo": "Oscar a Mejor Maquillaje asegurado para GDT",
+    "Medio": "Variety",
+    "Fecha": "2025-11-15",
+    "Resumen": "Expertos predicen múltiples nominaciones por el diseño del Monstruo.",
+    "Comentario_Reaccion": "El maquillaje te cuenta toda la historia del sufrimiento del Monstruo.",
+    "": ""
+  },
+  {
+    "ID": 113,
+    "Categoria": "Generacion Z",
+    "Titulo": "El factor TikTok en las protestas mexicanas",
+    "Medio": "DW",
+    "Fecha": "2025-11-15",
+    "Resumen": "La red social es la principal herramienta de convocatoria y difusión.",
+    "Comentario_Reaccion": "El algoritmo nos unió por la causa.",
+    "": ""
+  },
+  {
+    "ID": 114,
+    "Categoria": "Frankenstein",
+    "Titulo": "La nueva visión de la criatura de Del Toro",
+    "Medio": "Rolling Stone",
+    "Fecha": "2025-11-08",
+    "Resumen": "El director se enfoca en la soledad y la humanidad del Monstruo.",
+    "Comentario_Reaccion": "Es más sobre la víctima que sobre el villano.",
+    "": ""
+  },
+  {
+    "ID": 115,
+    "Categoria": "Generacion Z",
+    "Titulo": "Marcha: ¿El inicio de un nuevo movimiento juvenil?",
+    "Medio": "Reforma",
+    "Fecha": "2025-11-17",
+    "Resumen": "Sociólogos debaten si las protestas tienen el potencial de la Primavera Árabe.",
+    "Comentario_Reaccion": "Los cambios generacionales empiezan con una chispa así.",
+    "": ""
+  },
+  {
+    "ID": 116,
+    "Categoria": "Frankenstein",
+    "Titulo": "Elenco de lujo cautiva a la audiencia global",
+    "Medio": "Hollywood Reporter",
+    "Fecha": "2025-11-09",
+    "Resumen": "Análisis de las actuaciones de [Actor 1] y [Actor 2] como Dr. y Monstruo.",
+    "Comentario_Reaccion": "[Actor 1] logra una frialdad increíble como Dr. Frankenstein.",
+    "": ""
+  },
+  {
+    "ID": 117,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gobierno refuerza seguridad en el Zócalo",
+    "Medio": "Milenio",
+    "Fecha": "2025-11-14",
+    "Resumen": "Tras el intento de ocupación, se duplica la presencia policial.",
+    "Comentario_Reaccion": "Blindan el poder en lugar de abrir el diálogo.",
+    "": ""
+  },
+  {
+    "ID": 118,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein: ¿La obra maestra más oscura de GDT?",
+    "Medio": "IndieWire",
+    "Fecha": "2025-11-10",
+    "Resumen": "Comparación con El Laberinto del Fauno y La Forma del Agua.",
+    "Comentario_Reaccion": "La más cruda y menos fantástica, una joya.",
+    "": ""
+  },
+  {
+    "ID": 119,
+    "Categoria": "Generacion Z",
+    "Titulo": "¿Quién financia la movilización digital de la Gen Z?",
+    "Medio": "El Universal",
+    "Fecha": "2025-11-13",
+    "Resumen": "Investigación sobre el origen de los hashtags virales.",
+    "Comentario_Reaccion": "Nuestra única moneda es la indignación.",
+    "": ""
+  },
+  {
+    "ID": 120,
+    "Categoria": "Frankenstein",
+    "Titulo": "La estética victoriana y el detalle de producción",
+    "Medio": "Screen Rant",
+    "Fecha": "2025-11-06",
+    "Resumen": "Entrevista con la diseñadora de producción sobre el mundo de la película.",
+    "Comentario_Reaccion": "Cada detalle te transporta a la época, maestría total.",
+    "": ""
+  },
+  {
+    "ID": 121,
+    "Categoria": "Generacion Z",
+    "Titulo": "Estudiantes se suman a las demandas de la marcha",
+    "Medio": "La Jornada",
+    "Fecha": "2025-11-15",
+    "Resumen": "Facultades de la UNAM y el IPN emiten comunicados de apoyo.",
+    "Comentario_Reaccion": "Las universidades son el motor del cambio.",
+    "": ""
+  },
+  {
+    "ID": 122,
+    "Categoria": "Frankenstein",
+    "Titulo": "Tráiler rompe récord de vistas en Netflix",
+    "Medio": "Forbes",
+    "Fecha": "2025-10-01",
+    "Resumen": "El avance de la película se vuelve viral en horas.",
+    "Comentario_Reaccion": "El tráiler no le hace justicia, la película es mucho mejor.",
+    "": ""
+  },
+  {
+    "ID": 123,
+    "Categoria": "Generacion Z",
+    "Titulo": "Influencers denuncian intimidación tras apoyar las protestas",
+    "Medio": "El País",
+    "Fecha": "2025-11-17",
+    "Resumen": "Cuentas grandes reportan ataques coordinados y amenazas.",
+    "Comentario_Reaccion": "El precio de alzar la voz es alto.",
+    "": ""
+  },
+  {
+    "ID": 124,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro sobre la ciencia: \"Es la ambición humana",
+    "Medio": "The Guardian",
+    "Fecha": "2025-11-07",
+    "Resumen": "Cita del director sobre el verdadero horror de la historia.",
+    "Comentario_Reaccion": "La arrogancia del Dr. es la verdadera tragedia.",
+    "": ""
+  },
+  {
+    "ID": 125,
+    "Categoria": "Generacion Z",
+    "Titulo": "México: La generación del cambio social",
+    "Medio": "CNN Español",
+    "Fecha": "2025-11-18",
+    "Resumen": "Reportaje especial sobre el activismo juvenil en Latam.",
+    "Comentario_Reaccion": "Gen Z está definiendo la política en México.",
+    "": ""
+  },
+  {
+    "ID": 126,
+    "Categoria": "Frankenstein",
+    "Titulo": "Critica: La obra que define la filmografía de Del Toro",
+    "Medio": "SensaCine",
+    "Fecha": "2025-11-05",
+    "Resumen": "Una reseña que alaba la madurez narrativa y visual del director.",
+    "Comentario_Reaccion": "Una lección de cómo adaptar un clásico.",
+    "": ""
+  },
+  {
+    "ID": 127,
+    "Categoria": "Generacion Z",
+    "Titulo": "Padres de familia expresan apoyo a la marcha de sus hijos",
+    "Medio": "El Heraldo",
+    "Fecha": "2025-11-16",
+    "Resumen": "Adultos mayores se unen a las filas en solidaridad.",
+    "Comentario_Reaccion": "El apoyo de los padres es crucial para la moral.",
+    "": ""
+  },
+  {
+    "ID": 128,
+    "Categoria": "Frankenstein",
+    "Titulo": "Análisis: ¿Por qué Frankenstein sigue siendo relevante?",
+    "Medio": "Vulture",
+    "Fecha": "2025-11-12",
+    "Resumen": "La historia toca temas de rechazo social y disidencia.",
+    "Comentario_Reaccion": "Refleja la ansiedad de sentirse diferente y excluido.",
+    "": ""
+  },
+  {
+    "ID": 129,
+    "Categoria": "Generacion Z",
+    "Titulo": "Hashtags de protesta se vuelven *trending* mundial",
+    "Medio": "Twitter News",
+    "Fecha": "2025-11-15",
+    "Resumen": "#MexicoDespierta y #GenZPorLaPaz lideran tendencias.",
+    "Comentario_Reaccion": "La voz digital supera a la frontera.",
+    "": ""
+  },
+  {
+    "ID": 130,
+    "Categoria": "Frankenstein",
+    "Titulo": "Efectos visuales minimalistas y el poder de la caracterización",
+    "Medio": "FX Magazine",
+    "Fecha": "2025-11-10",
+    "Resumen": "El uso de maquillaje práctico sobre CGI es un acierto.",
+    "Comentario_Reaccion": "La textura de la piel del Monstruo es increíblemente realista.",
+    "": ""
+  },
+  {
+    "ID": 131,
+    "Categoria": "Generacion Z",
+    "Titulo": "Policía Cibernética investiga origen de desinformación",
+    "Medio": "El País",
+    "Fecha": "2025-11-14",
+    "Resumen": "Señalan cuentas vinculadas a grupos de oposición.",
+    "Comentario_Reaccion": "Intentan deslegitimar el movimiento a toda costa.",
+    "": ""
+  },
+  {
+    "ID": 132,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro en entrevista: \"Es una carta de amor a Mary Shelley",
+    "Medio": "CinemaBlend",
+    "Fecha": "2025-11-07",
+    "Resumen": "El director discute la fidelidad al espíritu del libro.",
+    "Comentario_Reaccion": "Respeta la esencia, pero le añade su toque personal.",
+    "": ""
+  },
+  {
+    "ID": 133,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis: Las demandas económicas de la Generación Z",
+    "Medio": "Expansión",
+    "Fecha": "2025-11-17",
+    "Resumen": "Los jóvenes exigen salarios dignos y acceso a la vivienda.",
+    "Comentario_Reaccion": "El futuro económico es la mayor preocupación de la Gen Z.",
+    "": ""
+  },
+  {
+    "ID": 134,
+    "Categoria": "Frankenstein",
+    "Titulo": "Los 5 momentos más emotivos de Frankenstein (Spoiler Free)",
+    "Medio": "BuzzFeed",
+    "Fecha": "2025-11-09",
+    "Resumen": "Lista de escenas destacadas por su carga dramática.",
+    "Comentario_Reaccion": "La escena final me destrozó el corazón.",
+    "": ""
+  },
+  {
+    "ID": 135,
+    "Categoria": "Generacion Z",
+    "Titulo": "México D.F.: Centro de la protesta juvenil",
+    "Medio": "Reuters",
+    "Fecha": "2025-11-16",
+    "Resumen": "Cientos se congregan en el Ángel de la Independencia.",
+    "Comentario_Reaccion": "El Ángel fue el punto de encuentro de la esperanza.",
+    "": ""
+  },
+  {
+    "ID": 136,
+    "Categoria": "Frankenstein",
+    "Titulo": "¿Habrá secuela? GDT responde",
+    "Medio": "Collider",
+    "Fecha": "2025-11-14",
+    "Resumen": "Del Toro dice que esta es una historia autocontenida.",
+    "Comentario_Reaccion": "Terminó perfectamente, no necesita más.",
+    "": ""
+  },
+  {
+    "ID": 137,
+    "Categoria": "Generacion Z",
+    "Titulo": "Uso de tecnología para evitar represión policial",
+    "Medio": "VICE News",
+    "Fecha": "2025-11-15",
+    "Resumen": "Apps de mensajería cifrada y transmisión en vivo para documentar abusos.",
+    "Comentario_Reaccion": "El celular es nuestra arma de defensa y denuncia.",
+    "": ""
+  },
+  {
+    "ID": 138,
+    "Categoria": "Frankenstein",
+    "Titulo": "El papel del color y la luz en la película",
+    "Medio": "FilmeNow",
+    "Fecha": "2025-11-06",
+    "Resumen": "Análisis visual del director de fotografía.",
+    "Comentario_Reaccion": "La niebla y la oscuridad son personajes en sí mismos.",
+    "": ""
+  },
+  {
+    "ID": 139,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gobierno acusa vandalismo en monumentos históricos",
+    "Medio": "INAH",
+    "Fecha": "2025-11-17",
+    "Resumen": "Daños en edificios y estatuas tras los enfrentamientos.",
+    "Comentario_Reaccion": "El daño al patrimonio es lamentable.",
+    "": ""
+  },
+  {
+    "ID": 140,
+    "Categoria": "Frankenstein",
+    "Titulo": "Estreno de Frankenstein genera debate en Reddit",
+    "Medio": "Reddit r/movies",
+    "Fecha": "2025-11-08",
+    "Resumen": "Discusión sobre la adaptación y la controversia del casting.",
+    "Comentario_Reaccion": "El debate en Reddit está encendido, es un signo de éxito.",
+    "": ""
+  },
+  {
+    "ID": 141,
+    "Categoria": "Generacion Z",
+    "Titulo": "Movilización: ¿Una ola organizada o espontánea?",
+    "Medio": "El País",
+    "Fecha": "2025-11-18",
+    "Resumen": "Expertos debaten la naturaleza del movimiento juvenil.",
+    "Comentario_Reaccion": "Es una ola de indignación genuina.",
+    "": ""
+  },
+  {
+    "ID": 142,
+    "Categoria": "Frankenstein",
+    "Titulo": "Actores describen el proceso de maquillaje como \"tortuoso",
+    "Medio": "The Hollywood Reporter",
+    "Fecha": "2025-11-11",
+    "Resumen": "Horas de trabajo diario para lograr la apariencia del Monstruo.",
+    "Comentario_Reaccion": "El sacrificio se ve en la pantalla, un trabajo artesanal.",
+    "": ""
+  },
+  {
+    "ID": 143,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis de lenguaje visual de la protesta",
+    "Medio": "Diseño MX",
+    "Fecha": "2025-11-15",
+    "Resumen": "Uso de carteles minimalistas y referencias a memes.",
+    "Comentario_Reaccion": "Los carteles eran arte puro de protesta.",
+    "": ""
+  },
+  {
+    "ID": 144,
+    "Categoria": "Frankenstein",
+    "Titulo": "La música de [Compositor] eleva la emoción",
+    "Medio": "Soundtrack World",
+    "Fecha": "2025-11-05",
+    "Resumen": "Reseña de la banda sonora de la película.",
+    "Comentario_Reaccion": "La banda sonora es tan épica como la historia.",
+    "": ""
+  },
+  {
+    "ID": 145,
+    "Categoria": "Generacion Z",
+    "Titulo": "Jóvenes convocan a una segunda marcha en diciembre",
+    "Medio": "Redes Sociales",
+    "Fecha": "2025-11-17",
+    "Resumen": "La convocatoria es para el día 10 de diciembre.",
+    "Comentario_Reaccion": "La lucha no termina, apenas comienza.",
+    "": ""
+  },
+  {
+    "ID": 146,
+    "Categoria": "Frankenstein",
+    "Titulo": "Comparativa: ¿Mejor que las versiones clásicas?",
+    "Medio": "Den of Geek",
+    "Fecha": "2025-11-07",
+    "Resumen": "El artículo compara la nueva versión con las de la Universal.",
+    "Comentario_Reaccion": "Es la versión que Mary Shelley merecía ver.",
+    "": ""
+  },
+  {
+    "ID": 147,
+    "Categoria": "Generacion Z",
+    "Titulo": "Marcha: Un grito contra la corrupción y la impunidad",
+    "Medio": "W Radio",
+    "Fecha": "2025-11-16",
+    "Resumen": "Las demandas centrales giran en torno a la justicia.",
+    "Comentario_Reaccion": "La justicia es la base de todo lo que pedimos.",
+    "": ""
+  },
+  {
+    "ID": 148,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro sobre la ciencia: \"Es la ambición humana",
+    "Medio": "Entrevista Televisa",
+    "Fecha": "2025-11-04",
+    "Resumen": "El director explica su enfoque psicológico del personaje.",
+    "Comentario_Reaccion": "La ambición desmedida es el verdadero motor del terror.",
+    "": ""
+  },
+  {
+    "ID": 149,
+    "Categoria": "Generacion Z",
+    "Titulo": "Testimonios: Jóvenes que fueron por primera vez a marchar",
+    "Medio": "Aristegui Noticias",
+    "Fecha": "2025-11-18",
+    "Resumen": "Historias de la experiencia inicial en las protestas.",
+    "Comentario_Reaccion": "Fue mi primera vez, y no será la última.",
+    "": ""
+  },
+  {
+    "ID": 150,
+    "Categoria": "Frankenstein",
+    "Titulo": "Éxito de taquilla limitada en cines independientes",
+    "Medio": "Box Office Guru",
+    "Fecha": "2025-11-13",
+    "Resumen": "La película tuvo buenas cifras antes de pasar a streaming.",
+    "Comentario_Reaccion": "Un éxito de nicho que se masificó en streaming.",
+    "": ""
+  },
+  {
+    "ID": 151,
+    "Categoria": "Generacion Z",
+    "Titulo": "Movilización en Guadalajara y Monterrey",
+    "Medio": "El Norte",
+    "Fecha": "2025-11-16",
+    "Resumen": "Las protestas se replican en otros estados clave.",
+    "Comentario_Reaccion": "La provincia también alza la voz.",
+    "": ""
+  },
+  {
+    "ID": 152,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro explica el final alternativo",
+    "Medio": "Revista Empire",
+    "Fecha": "2025-11-15",
+    "Resumen": "Detalles sobre las escenas eliminadas y cambios de guion.",
+    "Comentario_Reaccion": "El final elegido es el más coherente con el tono de GDT.",
+    "": ""
+  },
+  {
+    "ID": 153,
+    "Categoria": "Generacion Z",
+    "Titulo": "Debate en Twitter: ¿Falta de liderazgo en la Gen Z?",
+    "Medio": "El Universal",
+    "Fecha": "2025-11-17",
+    "Resumen": "Algunos critican la falta de una figura central en el movimiento.",
+    "Comentario_Reaccion": "El liderazgo es horizontal en esta generación.",
+    "": ""
+  },
+  {
+    "ID": 154,
+    "Categoria": "Frankenstein",
+    "Titulo": "Análisis del vestuario como herramienta narrativa",
+    "Medio": "Vogue México",
+    "Fecha": "2025-11-08",
+    "Resumen": "La ropa refleja el estatus y la decadencia moral.",
+    "Comentario_Reaccion": "El vestuario es un personaje más en la historia.",
+    "": ""
+  },
+  {
+    "ID": 155,
+    "Categoria": "Generacion Z",
+    "Titulo": "Reporte: Uso de VPN y Tor para comunicación segura",
+    "Medio": "TechCrunch",
+    "Fecha": "2025-11-15",
+    "Resumen": "La Gen Z utiliza herramientas digitales para evadir vigilancia.",
+    "Comentario_Reaccion": "La protesta se organiza en la sombra digital.",
+    "": ""
+  },
+  {
+    "ID": 156,
+    "Categoria": "Frankenstein",
+    "Titulo": "Netflix compra los derechos globales por una cifra millonaria",
+    "Medio": "Deadline",
+    "Fecha": "2025-10-25",
+    "Resumen": "El acuerdo garantiza una distribución masiva.",
+    "Comentario_Reaccion": "Gracias a Netflix, la obra llegó a todo el mundo.",
+    "": ""
+  },
+  {
+    "ID": 157,
+    "Categoria": "Generacion Z",
+    "Titulo": "El lenguaje inclusivo y la Gen Z en la protesta",
+    "Medio": "Cultura Colectiva",
+    "Fecha": "2025-11-16",
+    "Resumen": "Análisis del vocabulario utilizado en las consignas.",
+    "Comentario_Reaccion": "La Gen Z trae consigo el lenguaje de la inclusión.",
+    "": ""
+  },
+  {
+    "ID": 158,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro sobre el CGI: \"Solo donde sea estrictamente necesario",
+    "Medio": "Video Production",
+    "Fecha": "2025-11-06",
+    "Resumen": "Énfasis en los efectos prácticos y la artesanía.",
+    "Comentario_Reaccion": "Se agradece el toque práctico y menos digital.",
+    "": ""
+  },
+  {
+    "ID": 159,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gobierno acusa a partidos de derecha de infiltrar la marcha",
+    "Medio": "Milenio",
+    "Fecha": "2025-11-14",
+    "Resumen": "Argumentan que buscan desestabilizar la administración.",
+    "Comentario_Reaccion": "Una cortina de humo para no hablar de las demandas.",
+    "": ""
+  },
+  {
+    "ID": 160,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein: El monstruo que nos obliga a vernos",
+    "Medio": "Psicología y Cine",
+    "Fecha": "2025-11-11",
+    "Resumen": "Análisis psicológico de la relación creador-criatura.",
+    "Comentario_Reaccion": "El Monstruo es el espejo de nuestra sociedad.",
+    "": ""
+  },
+  {
+    "ID": 161,
+    "Categoria": "Generacion Z",
+    "Titulo": "Gen Z crea su propia narrativa en YouTube",
+    "Medio": "YouTube Trends",
+    "Fecha": "2025-11-16",
+    "Resumen": "Canales de jóvenes documentan la marcha sin filtros.",
+    "Comentario_Reaccion": "La información real viene de los jóvenes en el lugar.",
+    "": ""
+  },
+  {
+    "ID": 162,
+    "Categoria": "Frankenstein",
+    "Titulo": "La iluminación como personaje en el film de Del Toro",
+    "Medio": "Cinephilia",
+    "Fecha": "2025-11-09",
+    "Resumen": "Estudio de cómo el claroscuro define el tono de la película.",
+    "Comentario_Reaccion": "Un maestro del contraste y la sombra.",
+    "": ""
+  },
+  {
+    "ID": 163,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis: Diferencias con el movimiento estudiantil del 68",
+    "Medio": "History Channel",
+    "Fecha": "2025-11-18",
+    "Resumen": "Comparativa entre el activismo actual y el pasado.",
+    "Comentario_Reaccion": "La tecnología es la mayor diferencia con el 68.",
+    "": ""
+  },
+  {
+    "ID": 164,
+    "Categoria": "Frankenstein",
+    "Titulo": "La visión del Dr. Frankenstein como un niño caprichoso",
+    "Medio": "The New Yorker",
+    "Fecha": "2025-11-12",
+    "Resumen": "Crítica que examina la inmadurez moral del científico.",
+    "Comentario_Reaccion": "Un genio con la madurez de un niño.",
+    "": ""
+  },
+  {
+    "ID": 165,
+    "Categoria": "Generacion Z",
+    "Titulo": "Reporte de Derechos Humanos condena uso excesivo de la fuerza",
+    "Medio": "Amnistía Internacional",
+    "Fecha": "2025-11-17",
+    "Resumen": "Documentan agresiones a manifestantes pacíficos.",
+    "Comentario_Reaccion": "El derecho a protestar debe ser respetado.",
+    "": ""
+  },
+  {
+    "ID": 166,
+    "Categoria": "Frankenstein",
+    "Titulo": "Guillermo del Toro anuncia un libro de arte de la película",
+    "Medio": "Dark Horse Comics",
+    "Fecha": "2025-11-14",
+    "Resumen": "El tomo contendrá bocetos y diseños conceptuales.",
+    "Comentario_Reaccion": "El arte conceptual es tan bueno como la película.",
+    "": ""
+  },
+  {
+    "ID": 167,
+    "Categoria": "Generacion Z",
+    "Titulo": "Economistas advierten sobre el impacto de la inestabilidad social",
+    "Medio": "Financial Times",
+    "Fecha": "2025-11-18",
+    "Resumen": "Las protestas pueden afectar la inversión extranjera.",
+    "Comentario_Reaccion": "La inestabilidad es consecuencia de la crisis social.",
+    "": ""
+  },
+  {
+    "ID": 168,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein y el cine gótico: Un regreso a las raíces",
+    "Medio": "Horror Freak",
+    "Fecha": "2025-11-05",
+    "Resumen": "La película abraza la tradición del horror clásico.",
+    "Comentario_Reaccion": "Un festín visual para los amantes del gótico.",
+    "": ""
+  },
+  {
+    "ID": 169,
+    "Categoria": "Generacion Z",
+    "Titulo": "Manifestantes utilizan drones para documentar la marcha",
+    "Medio": "Tecnología para el Cambio",
+    "Fecha": "2025-11-16",
+    "Resumen": "Cámaras aéreas registran la magnitud de la concentración.",
+    "Comentario_Reaccion": "Los drones ofrecen una perspectiva imparcial.",
+    "": ""
+  },
+  {
+    "ID": 170,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro agradece el recibimiento: \"Una obra personal",
+    "Medio": "Discurso de Premiere",
+    "Fecha": "2025-10-30",
+    "Resumen": "El director se emociona al hablar de su conexión con la historia.",
+    "Comentario_Reaccion": "La pasión de GDT se transmite en el cine.",
+    "": ""
+  },
+  {
+    "ID": 171,
+    "Categoria": "Generacion Z",
+    "Titulo": "Comentarios: La marcha dividió a las familias",
+    "Medio": "Foros de Debate",
+    "Fecha": "2025-11-17",
+    "Resumen": "Generaciones mayores critican la falta de respeto a la autoridad.",
+    "Comentario_Reaccion": "La brecha generacional se hizo más grande en la marcha.",
+    "": ""
+  },
+  {
+    "ID": 172,
+    "Categoria": "Frankenstein",
+    "Titulo": "El Monstruo de Del Toro: ¿El más vulnerable de todos?",
+    "Medio": "Film Comment",
+    "Fecha": "2025-11-10",
+    "Resumen": "El análisis de la interpretación de [Actor 2] como figura trágica.",
+    "Comentario_Reaccion": "Un ser lleno de dolor e inocencia robada.",
+    "": ""
+  },
+  {
+    "ID": 173,
+    "Categoria": "Generacion Z",
+    "Titulo": "Influencers promueven boicot a marcas que no se pronuncian",
+    "Medio": "TikTok",
+    "Fecha": "2025-11-15",
+    "Resumen": "Piden a las empresas tomar posición política.",
+    "Comentario_Reaccion": "Las marcas deben tener responsabilidad social.",
+    "": ""
+  },
+  {
+    "ID": 174,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein: Un éxito inesperado de Netflix Latam",
+    "Medio": "Netflix Data",
+    "Fecha": "2025-11-14",
+    "Resumen": "La película se posiciona como la más vista en la región.",
+    "Comentario_Reaccion": "Un triunfo para el cine de autor en streaming.",
+    "": ""
+  },
+  {
+    "ID": 175,
+    "Categoria": "Generacion Z",
+    "Titulo": "La voz de la Generación Z en los medios tradicionales",
+    "Medio": "Prensa Libre",
+    "Fecha": "2025-11-18",
+    "Resumen": "Los medios dan más espacio a las demandas de los jóvenes.",
+    "Comentario_Reaccion": "La presión de la calle obliga a los medios a reaccionar.",
+    "": ""
+  },
+  {
+    "ID": 176,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro sobre el final: \"Un toque de esperanza",
+    "Medio": "Entrevista Exclusiva",
+    "Fecha": "2025-11-07",
+    "Resumen": "El director defiende un cierre menos nihilista.",
+    "Comentario_Reaccion": "Un final que te deja pensando, pero con luz.",
+    "": ""
+  },
+  {
+    "ID": 177,
+    "Categoria": "Generacion Z",
+    "Titulo": "Activistas denuncian detenciones arbitrarias",
+    "Medio": "ONG Derechos Humanos",
+    "Fecha": "2025-11-16",
+    "Resumen": "Piden la liberación inmediata de los detenidos.",
+    "Comentario_Reaccion": "La represión es el peor enemigo de la democracia.",
+    "": ""
+  },
+  {
+    "ID": 178,
+    "Categoria": "Frankenstein",
+    "Titulo": "El impacto de la película en la moda gótica actual",
+    "Medio": "Fashionista",
+    "Fecha": "2025-11-10",
+    "Resumen": "Las tendencias de vestuario de la película inspiran nuevos looks.",
+    "Comentario_Reaccion": "El estilo victoriano está de vuelta gracias a Del Toro.",
+    "": ""
+  },
+  {
+    "ID": 179,
+    "Categoria": "Generacion Z",
+    "Titulo": "Análisis de los cánticos y consignas de la marcha",
+    "Medio": "Lingüística Social",
+    "Fecha": "2025-11-17",
+    "Resumen": "El uso del sarcasmo y el humor negro en las protestas.",
+    "Comentario_Reaccion": "Protestar con inteligencia es el sello de la Gen Z.",
+    "": ""
+  },
+  {
+    "ID": 180,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein en el Top 10 de IMDb",
+    "Medio": "IMDb Charts",
+    "Fecha": "2025-11-15",
+    "Resumen": "La película mantiene una alta calificación entre los usuarios.",
+    "Comentario_Reaccion": "Una obra maestra que perdurará.",
+    "": ""
+  },
+  {
+    "ID": 181,
+    "Categoria": "Generacion Z",
+    "Titulo": "Usuarios de Reddit discuten la efectividad de las marchas",
+    "Medio": "Reddit r/Mexico",
+    "Fecha": "2025-11-18",
+    "Resumen": "Debate sobre si el cambio se logra en la calle o en las urnas.",
+    "Comentario_Reaccion": "La calle mueve la aguja, la urna lo consolida.",
+    "": ""
+  },
+  {
+    "ID": 182,
+    "Categoria": "Frankenstein",
+    "Titulo": "La crítica elogia la cinematografía en blanco y negro (Versión especial)",
+    "Medio": "Sundance Review",
+    "Fecha": "2025-11-12",
+    "Resumen": "Se lanzó una edición limitada en blanco y negro para cines.",
+    "Comentario_Reaccion": "El B&N intensifica la tragedia.",
+    "": ""
+  },
+  {
+    "ID": 183,
+    "Categoria": "Generacion Z",
+    "Titulo": "Cobertura en vivo de la marcha es la más vista en Facebook",
+    "Medio": "Facebook Live",
+    "Fecha": "2025-11-16",
+    "Resumen": "Miles de personas siguieron la transmisión en tiempo real.",
+    "Comentario_Reaccion": "La transmisión en vivo es la nueva crónica.",
+    "": ""
+  },
+  {
+    "ID": 184,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro: \"Mi Frankenstein no tiene miedo",
+    "Medio": "tiene dolor",
+    "Fecha": "MasterClass",
+    "Resumen": "2025-11-09",
+    "Comentario_Reaccion": "El director explica la emoción dominante de la criatura.",
+    "": "El dolor como motor de la monstruosidad."
+  },
+  {
+    "ID": 185,
+    "Categoria": "Generacion Z",
+    "Titulo": "La Generación Z y su relación con el pasado político",
+    "Medio": "Revista Nexos",
+    "Fecha": "2025-11-17",
+    "Resumen": "Los jóvenes critican a generaciones anteriores por la inacción.",
+    "Comentario_Reaccion": "No queremos cometer los mismos errores.",
+    "": ""
+  },
+  {
+    "ID": 186,
+    "Categoria": "Frankenstein",
+    "Titulo": "Actriz [Actriz 3] sobre el rol femenino en la historia",
+    "Medio": "Women in Film",
+    "Fecha": "2025-11-11",
+    "Resumen": "El papel de las mujeres en la nueva adaptación.",
+    "Comentario_Reaccion": "Los personajes femeninos son el ancla moral.",
+    "": ""
+  },
+  {
+    "ID": 187,
+    "Categoria": "Generacion Z",
+    "Titulo": "Marcha es calificada como \"evento generacional",
+    "Medio": "Analistas Políticos",
+    "Fecha": "2025-11-18",
+    "Resumen": "Se compara el impacto cultural con el Vive Latino.",
+    "Comentario_Reaccion": "Un momento definitorio para la juventud mexicana.",
+    "": ""
+  },
+  {
+    "ID": 188,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein es la película más tuiteada de la semana",
+    "Medio": "Twitter Trends",
+    "Fecha": "2025-11-08",
+    "Resumen": "Millones de menciones sobre el estreno.",
+    "Comentario_Reaccion": "El poder de Del Toro en las redes.",
+    "": ""
+  },
+  {
+    "ID": 189,
+    "Categoria": "Generacion Z",
+    "Titulo": "Grupos de apoyo legal asisten a detenidos",
+    "Medio": "Pro Bono México",
+    "Fecha": "2025-11-16",
+    "Resumen": "Abogados ofrecen ayuda gratuita a los arrestados.",
+    "Comentario_Reaccion": "La asistencia legal es una forma de protesta.",
+    "": ""
+  },
+  {
+    "ID": 190,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro elogia la actuación de [Actor 4] como Henry Clerval",
+    "Medio": "Entrevista Backstage",
+    "Fecha": "2025-11-07",
+    "Resumen": "El director destaca el soporte emocional del personaje.",
+    "Comentario_Reaccion": "Clerval es la consciencia de Víctor.",
+    "": ""
+  },
+  {
+    "ID": 191,
+    "Categoria": "Generacion Z",
+    "Titulo": "El uso de códigos y emojis en la convocatoria",
+    "Medio": "Wired",
+    "Fecha": "2025-11-15",
+    "Resumen": "Análisis de cómo se organizan secretamente.",
+    "Comentario_Reaccion": "La Gen Z inventa sus propios códigos para la seguridad.",
+    "": ""
+  },
+  {
+    "ID": 192,
+    "Categoria": "Frankenstein",
+    "Titulo": "Los coleccionables de Frankenstein se agotan en línea",
+    "Medio": "Merchandise News",
+    "Fecha": "2025-11-13",
+    "Resumen": "Figuras y pósters de edición limitada.",
+    "Comentario_Reaccion": "El merchandising es un éxito rotundo.",
+    "": ""
+  },
+  {
+    "ID": 193,
+    "Categoria": "Generacion Z",
+    "Titulo": "Medios internacionales critican la respuesta del gobierno",
+    "Medio": "The New York Times",
+    "Fecha": "2025-11-17",
+    "Resumen": "La reacción oficial es vista como minimización.",
+    "Comentario_Reaccion": "El mundo observa el trato a los manifestantes.",
+    "": ""
+  },
+  {
+    "ID": 194,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein: Una clase magistral de diseño de sonido",
+    "Medio": "Audio Post",
+    "Fecha": "2025-11-10",
+    "Resumen": "El uso del silencio y los efectos de sonido gutural.",
+    "Comentario_Reaccion": "El diseño de sonido es perturbador y brillante.",
+    "": ""
+  },
+  {
+    "ID": 195,
+    "Categoria": "Generacion Z",
+    "Titulo": "Testimonios de desalojo en la Alameda Central",
+    "Medio": "Diario de México",
+    "Fecha": "2025-11-16",
+    "Resumen": "Cuentas de primera mano sobre la intervención policial.",
+    "Comentario_Reaccion": "La violencia no nos va a detener.",
+    "": ""
+  },
+  {
+    "ID": 196,
+    "Categoria": "Frankenstein",
+    "Titulo": "Del Toro: \"Es una tragedia sobre la paternidad fallida",
+    "Medio": "Focus Features",
+    "Fecha": "2025-11-05",
+    "Resumen": "El director se enfoca en la responsabilidad del creador.",
+    "Comentario_Reaccion": "Un tema universal que Del Toro maneja con maestría.",
+    "": ""
+  },
+  {
+    "ID": 197,
+    "Categoria": "Generacion Z",
+    "Titulo": "Las 'Fake News' sobre la marcha: Desmentidos de la Gen Z",
+    "Medio": "VerificadorMx",
+    "Fecha": "2025-11-15",
+    "Resumen": "Jóvenes usan sus redes para desmentir rumores oficiales.",
+    "Comentario_Reaccion": "La Gen Z lucha contra la desinformación en tiempo real.",
+    "": ""
+  },
+  {
+    "ID": 198,
+    "Categoria": "Frankenstein",
+    "Titulo": "Frankenstein se proyecta en la Cineteca Nacional",
+    "Medio": "Cineteca Agenda",
+    "Fecha": "2025-10-28",
+    "Resumen": "Función especial con presencia de críticos.",
+    "Comentario_Reaccion": "Un evento cultural imperdible en la Cineteca.",
+    "": ""
+  },
+  {
+    "ID": 199,
+    "Categoria": "Generacion Z",
+    "Titulo": "Impacto en la cultura pop: Músicos se unen a la protesta",
+    "Medio": "Rolling Stone MX",
+    "Fecha": "2025-11-17",
+    "Resumen": "Bandas de rock y rap se pronuncian y donan fondos.",
+    "Comentario_Reaccion": "Los artistas son aliados del cambio.",
+    "": ""
+  },
+  {
+    "ID": 200,
+    "Categoria": "Frankenstein",
+    "Titulo": "La controversia del casting en redes sociales",
+    "Medio": "Twitter Debate",
+    "Fecha": "2025-11-04",
+    "Resumen": "Discusión sobre la elección de un actor 'demasiado guapo'.",
+    "Comentario_Reaccion": "Al final, la actuación superó el debate del casting.",
+    "": ""
+  }
+]
